@@ -1,7 +1,5 @@
-# Git Course
+# Curso de Git e Github
 
-Este é um repositório teste para ensinar como o git funciona.
+Este curso foi realizado na plataforma Udemy, onde disponibiliza um curso iniciante gratuito, de Git e Github.
 
-Saiba mais em [willianjusten.com.br](https://willianjusten.com.br)
-
-Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido :)!
+Para mais: [udemy.com](https://www.udemy.com/course/git-e-github-para-iniciantes/)
