@@ -1,1 +1,3 @@
 Esse arquivo é usado para entender o git merge
+
+Vamos testar o merge request
